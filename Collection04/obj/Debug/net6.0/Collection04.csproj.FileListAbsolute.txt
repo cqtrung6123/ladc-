@@ -1,0 +1,15 @@
+C:\Users\admin\source\repos\myPj\Collection04\bin\Debug\net6.0\Collection04.exe
+C:\Users\admin\source\repos\myPj\Collection04\bin\Debug\net6.0\Collection04.deps.json
+C:\Users\admin\source\repos\myPj\Collection04\bin\Debug\net6.0\Collection04.runtimeconfig.json
+C:\Users\admin\source\repos\myPj\Collection04\bin\Debug\net6.0\Collection04.dll
+C:\Users\admin\source\repos\myPj\Collection04\bin\Debug\net6.0\Collection04.pdb
+C:\Users\admin\source\repos\myPj\Collection04\obj\Debug\net6.0\Collection04.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\myPj\Collection04\obj\Debug\net6.0\Collection04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\myPj\Collection04\obj\Debug\net6.0\Collection04.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\myPj\Collection04\obj\Debug\net6.0\Collection04.AssemblyInfo.cs
+C:\Users\admin\source\repos\myPj\Collection04\obj\Debug\net6.0\Collection04.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\myPj\Collection04\obj\Debug\net6.0\Collection04.dll
+C:\Users\admin\source\repos\myPj\Collection04\obj\Debug\net6.0\refint\Collection04.dll
+C:\Users\admin\source\repos\myPj\Collection04\obj\Debug\net6.0\Collection04.pdb
+C:\Users\admin\source\repos\myPj\Collection04\obj\Debug\net6.0\Collection04.genruntimeconfig.cache
+C:\Users\admin\source\repos\myPj\Collection04\obj\Debug\net6.0\ref\Collection04.dll

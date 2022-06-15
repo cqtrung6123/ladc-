@@ -13,12 +13,23 @@ namespace lad5._1
         public string proDesc { get; set; }
         public decimal price { get; set; }
         public Product() { }
-        public Product(int id, string proName, string proDesc, decimal price)
+        public Product( string proName, string proDesc, decimal price)
         {
             id = id;
             this.proName = proName;
             this.proDesc = proDesc;
             this.price = price;
+        }
+        public Product(int id,string proName, string proDesc, decimal price)
+        {
+            id = id;
+            this.proName = proName;
+            this.proDesc = proDesc;
+            this.price = price;
+        }
+        public override string ToString()
+        {
+            return "Product Name:"+proName+"; Product Description:"+proDesc+" ;price:"+price;
         }
     }
 }
